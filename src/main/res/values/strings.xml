@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Spotour</string>
+
+    <string-array name="towns">
+        <item>Ponce</item>
+        <item>San Juan</item>
+    </string-array>
+
+    <string-array name="places">
+        <item>Historical</item>
+        <item>Restaurants</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

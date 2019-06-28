@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_widget">128dp</dimen>
+    <dimen name="padding_widget">30dp</dimen>
+</resources>
